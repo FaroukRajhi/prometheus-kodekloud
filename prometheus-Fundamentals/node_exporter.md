@@ -1,0 +1,1 @@
+install it from official prometheus documentation
