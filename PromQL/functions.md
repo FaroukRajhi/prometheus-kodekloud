@@ -1,0 +1,3 @@
+floor(node_filesystem_avail_bytes)
+ceil(node_filesystem_avail_bytes) and more
+sort(node_filesystem_avail_bytes)
